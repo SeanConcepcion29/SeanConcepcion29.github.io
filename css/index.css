@@ -1,0 +1,29 @@
+main article{
+    color: brown;
+    font-size: 50px;
+}
+
+main p{
+    color: blue;
+    font-size: 100px;
+}
+
+main img{
+    size: 20px;
+}
+
+#FC{
+    color: palevioletred;
+}
+
+#FG{
+    color: yellow;
+}
+
+#FP{
+    color: violet;
+}
+
+#FF{
+    color: green;
+}
